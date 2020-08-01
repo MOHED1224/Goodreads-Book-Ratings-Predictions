@@ -16,3 +16,6 @@ Content:
   8. Compare models accuracy on test data.
   9. Compare training VS test score for each model
 
+Click <a href="https://www.kaggle.com/mohed1224/goodreads-book-ratings-predictions">Here</a> to see the notebook on Kaggle
+
+<a href="https://www.kaggle.com/mohed1224">My Kaggle Account</a>
